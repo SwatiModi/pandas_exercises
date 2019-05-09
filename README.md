@@ -11,7 +11,7 @@ There will be three different types of files:
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
 Learn one more topic and do exercises. If you got the answer wrong, don't go directly to the solution with code.
 
-Suggestions and collaborations are more than welcome. Please open an issue or make a PR. :)
+## Fork or Clone the original repository from [here](https://github.com/guipsamora/pandas_exercises)
 
 # Lessons
 
